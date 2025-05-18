@@ -1,0 +1,14 @@
+{
+    "config": {
+        "xss_sql_protection": true,
+        "alertas_email": false,
+        "bloquear_vpn": true,
+        "scanner_ativo": true,
+        "max_tentativas": 5,
+        "ips_bloqueados": [
+            "185.234.219.1",
+            "203.0.113.1"
+        ]
+    },
+    "hashes": {}
+}
